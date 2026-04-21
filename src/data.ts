@@ -45,7 +45,7 @@ export const BOULDERS: Boulder[] = [
     id: '6',
     name: 'Comme un air de Moonboard',
     imageUrl: 'https://i.imgur.com/3lCwdXZ.jpeg',
-    fontGrade: '7A',
+    fontGrade: '7A+',
     vGrade: 'V7',
     date: '2026-04-21',
   },
