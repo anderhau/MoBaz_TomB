@@ -40,5 +40,36 @@ export const BOULDERS: Boulder[] = [
     fontGrade: '6A+ - 6B+',
     vGrade: 'V3-V4',
     date: '2026-04-21',
-  }
+  },
+  {
+    id: '6',
+    name: 'Comme un air de Moonboard',
+    imageUrl: 'https://i.imgur.com/3lCwdXZ.jpeg',
+    fontGrade: '7A',
+    vGrade: 'V7',
+    date: '2026-04-21',
+  },
+  {
+    id: '7',
+    name: 'Green sit and Yellow cheat',
+    imageUrl: 'https://i.imgur.com/fonmMka.jpeg',
+    fontGrade: '7B',
+    vGrade: 'V8',
+    date: '2026-04-21',
+  },
+  {
+    id: '8',
+    name: 'Mix & Max',
+    imageUrl: 'https://i.imgur.com/FqFCcwz.jpeg',
+    fontGrade: '7A',
+    vGrade: 'V6',
+    date: '2026-04-21',
+      },
+  {
+    id: '9',
+    name: 'Project',
+    imageUrl: 'https://i.imgur.com/RXEUnaa.jpeg',
+    fontGrade: '',
+    vGrade: '',
+    date: '2026-04-21',
 ];
