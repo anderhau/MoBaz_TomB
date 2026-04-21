@@ -37,8 +37,8 @@ export const BOULDERS: Boulder[] = [
     id: '5',
     name: 'Wall ahead',
     imageUrl: 'https://i.imgur.com/EkLiwmH.jpeg',
-    fontGrade: '6C+',
-    vGrade: 'V5',
+    fontGrade: '6A+ - 6B+',
+    vGrade: 'V3-V4',
     date: '2026-04-21',
   }
 ];
