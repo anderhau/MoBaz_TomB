@@ -64,7 +64,7 @@ export const BOULDERS: Boulder[] = [
     fontGrade: '7A',
     vGrade: 'V6',
     date: '2026-04-21',
-      },
+  },
   {
     id: '9',
     name: 'Project',
@@ -72,4 +72,5 @@ export const BOULDERS: Boulder[] = [
     fontGrade: '',
     vGrade: '',
     date: '2026-04-21',
+  } 
 ];
